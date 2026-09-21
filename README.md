@@ -43,4 +43,4 @@ git diff
 git log --oneline
 ```
 
-当前未配置远程仓库。
+远程仓库：[Omoshiroi51/frontend-component-sharing](https://github.com/Omoshiroi51/frontend-component-sharing)。本地 `origin` 指向该仓库，主分支为 `main`。
